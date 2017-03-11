@@ -3,7 +3,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 group = 'com.github.JayChan95318'  //这里填写你的github-name
 
 dependencies {
-    compile 'com.android.support:support-v4:19.0.0'
+    compile 'com.android.support:support-v4:25.0.1'
 }
 
 android {
