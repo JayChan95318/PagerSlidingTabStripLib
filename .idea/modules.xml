@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PagerSlidingTabStripLib.iml" filepath="$PROJECT_DIR$/PagerSlidingTabStripLib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PagerSlidingTabStripLib/PagerSlidingTabStripLib-PagerSlidingTabStripLib.iml" filepath="$PROJECT_DIR$/PagerSlidingTabStripLib/PagerSlidingTabStripLib-PagerSlidingTabStripLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
     </modules>
   </component>
 </project>
